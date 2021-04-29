@@ -7,3 +7,4 @@ const fn = () => {
 fn()
 
 console.log('Hello Webpack 4')
+alert('Hello Tanvir')
